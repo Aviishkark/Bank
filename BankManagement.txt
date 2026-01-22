@@ -1,0 +1,22 @@
+BankManagementSystem/
+│
+├── bank.h / bank.cpp
+│   - createAccount()
+│   - closeAccount()
+│   - findAccount()
+│   - totalBankBalance()
+│
+├── account.h / account.cpp
+│   - debit()
+│   - credit()
+│   - getBalance()
+│
+├── customer.h / customer.cpp
+│   - viewAccounts()
+│   - requestDebit()
+│   - requestCredit()
+│
+├── main.cpp
+
+
+
