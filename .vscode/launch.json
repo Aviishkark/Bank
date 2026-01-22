@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/avishkar/Desktop/Project1",
-      "program": "/Users/avishkar/Desktop/Project1/build/Debug/outDebug"
+      "cwd": "/Users/avishkar/Desktop/bank",
+      "program": "/Users/avishkar/Desktop/bank/build/Debug/outDebug"
     }
   ]
 }
